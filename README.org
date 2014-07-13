@@ -2,3 +2,7 @@
 
 #+CAPTION: Photo of Geesthacht
 [[./geesthacht.jpg]]
+
+* DynamoDB client for Haskell
+
+Yep. That's what it is.
