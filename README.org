@@ -1,0 +1,4 @@
+* Geesthacht
+
+#+CAPTION: Photo of Geesthacht
+[[./geesthacht.jpg]]
